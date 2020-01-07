@@ -16,3 +16,4 @@
 16. Работа с bindActionCreators(). Более подробно тут https://redux.js.org/api/bindactioncreators/.
 17. Подключил меню-сортировку с semantic-ui-react.
 18. Использовал Lodash. Очень удобная для сортировки.
+19. Разработал поиск по книгам.
